@@ -1,0 +1,18 @@
+- How to Build a Successful Information Security Career (Daniel Miessler)
+  - https://danielmiessler.com/blog/build-successful-infosec-career/#gs.DtVCbbw
+- The First Steps to a Career in Information Security (Errata Security - Marisa Fagan)
+  - http://blog.erratasec.com/2010/04/first-steps-to-career-in-information.html#.WFrbofkrIuU
+- Hiring your first Security Professional (Peerlyst - Dawid Balut)
+  - https://www.peerlyst.com/posts/hiring-your-first-security-professional-dawid-balut
+- How to Start a Career in Cyber security
+  - https://www.concise-courses.com/security/how-to-start-your-career/
+- How to Get Into Information Security (ISC^2)
+  - https://www.isc2.org/how-to-get-into-information-security.aspx
+- How do you begin an information security career (SC Magazine - Israel Bryski)
+  - https://www.scmagazine.com/how-do-you-begin-an-information-security-career/article/558803/
+- Starting your career in information technology (Tripwire - Zoe Rose)
+  - https://www.tripwire.com/state-of-security/off-topic/starting-your-career-in-information-technology/
+- How to start your information security career? (Adriano Leite)
+  - https://www.linkedin.com/pulse/20140825234615-654073-how-to-start-your-information-security-career
+- Starting in Information Security
+  - https://www.eanmeyer.com/2015/07/starting-in-information-security.html
