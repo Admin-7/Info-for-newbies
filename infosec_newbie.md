@@ -16,3 +16,52 @@
   - https://www.linkedin.com/pulse/20140825234615-654073-how-to-start-your-information-security-career
 - Starting in Information Security
   - https://www.eanmeyer.com/2015/07/starting-in-information-security.html
+- Starting an Infosec Career
+  - https://tisiphone.net/2015/10/12/starting-an-infosec-career-the-megamix-chapters-1-3/
+- Breaking in to security
+  - https://digi.ninja/projects/breaking_in_part_1.php
+- Corelan - How to become a pentester
+  - https://www.corelan.be/index.php/2015/10/13/how-to-become-a-pentester/
+- On breaking into the Information Security field (Danny Akacki)
+  - http://www.pcwf.co/2015/04/on-breaking-into-information-security.html
+- Attack Paths: Breaking into infosec from IT or other totally different fields (Eve Adams / Johnny Xmas - DerbyCon 2014)
+  - http://www.irongeek.com/i.php?page=videos/derbycon4/t207-attack-paths-breaking-into-infosec-from-it-or-other-totally-different-fields-eve-adams-and-johnny-xmas
+- Infosec Resumes: What do employers care about? (Micah Hoffman - Webbreacher)
+  - https://webbreacher.com/2015/07/11/infosec-resumes-what-do-employers-care-about/
+  - Video: https://www.youtube.com/watch?v=gm4KgWr3A5w
+- Answers on how to get started in Security (Chris Gates / [carnal0wnage](https://twitter.com/carnal0wnage)
+  - http://carnal0wnage.attackresearch.com/2015/05/answers-on-how-to-get-started-in.html
+- Act wherever you can
+  - http://www.pcwf.co/2015/07/act-whereever-you-can.html
+- So you want to work in security (Michal Zalewski / lcamtuf)
+  - https://lcamtuf.blogspot.com/2016/08/so-you-want-to-work-in-security-but-are.html
+- So you want to work in security (Parisa Tabriz)
+  - https://medium.freecodecamp.com/so-you-want-to-work-in-security-bc6c10157d23#.j58he81se
+- Careers in security, ethical hacking and advice on where to get started (Troy Hunt)
+  - https://www.troyhunt.com/careers-in-security-ethical-hacking-and-advice-on-where-to-get-started/
+- How to Get Started in Information Security (Beau Wood)
+  - https://beauwoods.blogspot.com/2013/12/how-to-get-started-in-information.html?m=1
+- Resume Wackiness (Space Rogue)
+  - http://www.spacerogue.net/wordpress/?p=206
+- From Grunt to Operator (Tom Gorup)
+  - https://www.youtube.com/watch?v=TjbgfFreAEM
+- The Path to Success - Career Path in Information Security
+  - https://hack-ed.net/2015/09/16/the-path-to-success-career-paths-in-information-security/
+- Becoming a Cyber Knight: learn! (Alexander Sverdlov)
+  - https://www.linkedin.com/pulse/becoming-cyber-knight-learn-alexander-sverdlov
+- Getting Started in Information Security (Dakota Nelson)
+  - https://strikersecurity.com/blog/getting-started-in-information-security/
+- Not exactly about getting into security
+  - http://securityintelligence.com/how-to-stay-up-to-date-on-security-trends/#.VSPtY-FBSZA
+- How do you start in cyber security (Chris Romeo)
+  - https://www.quora.com/How-do-you-start-in-cyber-security/answer/Chris-Romeo
+- That's not my RJ45 Jack" IRL networking for Humans 2015 - ShowMeCon (Johnny Xmas)
+  - https://www.youtube.com/watch?v=T_HQ3bmTgis
+- That's not my RJ45 Jack" IRL networking for Humans Part 2 2015 - Converge Detroit (Johnny Xmas)
+  - https://www.youtube.com/watch?v=e_ivHDkSF2A
+- So you want to be a hacker? (Chris Grayson)
+  - http://www.slideshare.net/ChrisGrayson/so-you-want-to-be-a-hacker
+- How To Start A Career in Cybersecurity (Concise Cyber Security)
+  - https://www.concise-courses.com/security/how-to-start-your-career/
+- Security Recruiter Directory (CSO Online Staff)
+  - http://www.csoonline.com/article/3013033/it-careers/security-recruiter-directory.html
