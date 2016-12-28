@@ -51,7 +51,7 @@
   - https://www.linkedin.com/pulse/becoming-cyber-knight-learn-alexander-sverdlov
 - Getting Started in Information Security (Dakota Nelson)
   - https://strikersecurity.com/blog/getting-started-in-information-security/
-- Not exactly about getting into security
+- How to stay up to date on security trends (Koen Van Impe)
   - http://securityintelligence.com/how-to-stay-up-to-date-on-security-trends/#.VSPtY-FBSZA
 - How do you start in cyber security (Chris Romeo)
   - https://www.quora.com/How-do-you-start-in-cyber-security/answer/Chris-Romeo
