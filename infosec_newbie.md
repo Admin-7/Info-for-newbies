@@ -65,3 +65,7 @@
   - https://www.concise-courses.com/security/how-to-start-your-career/
 - Security Recruiter Directory (CSO Online Staff)
   - http://www.csoonline.com/article/3013033/it-careers/security-recruiter-directory.html
+- Learning the Ropes by [@ZephrFish](https://twitter.com/ZephrFish/status/814225237176893440)
+  - https://blog.zsec.uk/101-web-testing-1/
+- Becoming a Penetration Tester by [HollyGraceful](https://twitter.com/HollyGraceful)
+  - https://www.gracefulsecurity.com/becoming-a-penetration-tester/
